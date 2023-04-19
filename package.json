@@ -1,0 +1,24 @@
+{
+  "name": "typescript-snake-game",
+  "version": "1.0.0",
+  "description": "🐍 ‎ A tnake  game implementation written in  TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devangtomar/typescript-snake-game.git"
+  },
+  "keywords": [
+    "snake",
+    "typescript",
+    "game"
+  ],
+  "author": "Devang Tomar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devangtomar/typescript-snake-game/issues"
+  },
+  "homepage": "https://github.com/devangtomar/typescript-snake-game#readme"
+}
