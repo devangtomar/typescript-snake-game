@@ -1,10 +1,11 @@
 {
   "name": "typescript-snake-game",
   "version": "1.0.0",
-  "description": "🐍 ‎ A tnake  game implementation written in  TypeScript",
+  "description": "🐍 A Snake game implementation written in TypeScript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "ts-node ./src/index.ts",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
