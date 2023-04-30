@@ -4,8 +4,8 @@
   "description": "🐍 A Snake game implementation written in TypeScript",
   "main": "index.js",
   "scripts": {
-    "start": "tsc src/index.ts --outDir dist",
-    "build": "tsc"
+    "start": "tsc",
+    "build": "tsc src/index.ts --outDir dist"
   },
   "repository": {
     "type": "git",
