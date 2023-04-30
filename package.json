@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/devangtomar/typescript-snake-game/issues"
   },
-  "homepage": "https://github.com/devangtomar/typescript-snake-game#readme"
+  "homepage": "https://github.com/devangtomar/typescript-snake-game#readme",
+  "devDependencies": {
+    "@types/node": "^18.16.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
 }
